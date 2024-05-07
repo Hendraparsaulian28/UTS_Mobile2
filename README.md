@@ -6,4 +6,4 @@
 | <b> Matakuliah   | UTS Pemograman Mobile       |
 
 # output
-![img](fluutter.PNG)
+![img](.../fluutter)
