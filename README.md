@@ -6,4 +6,4 @@
 | <b> Matakuliah   | UTS Pemograman Mobile       |
 
 # output
-![img](img/fluutter.PNG).
+![img](https://github.com/Hendraparsaulian28/UTS_Mobile2/blob/main/fluutter.PNG).
